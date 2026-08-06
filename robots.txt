@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maydivahub.github.io/maydiva-sheets/sitemap.xml
+Sitemap: https://maydivasheets.com/sitemap.xml
